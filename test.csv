@@ -3,5 +3,5 @@ test,another,name
 change,test_string_data,"asdfa,asdfas,asdf"
 3,test_string_data,2131$$$faaa
 4,test_string_data,asdf/asdf/asdf
-5,test_string_data,"asdfa,asdfas,asdf"
+5,CHANGE,"asdfa,asdfas,asdf"
 6,test_string_data,2131$$$faaa
